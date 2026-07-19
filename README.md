@@ -96,13 +96,11 @@ I will continue updating this repository with more algorithms and concepts, incl
 
 - Thompson Sampling
 - Natural Language Processing (NLP)
-- Deep Learning (ANN, CNN, RNN)
 - Dimensionality Reduction
 - Model Selection & Boosting
 - XGBoost
 - CatBoost
 - LightGBM
-- Computer Vision
 - Generative AI
 
 ---
@@ -140,9 +138,8 @@ Open any notebook and run the cells sequentially.
 | Clustering | ✅ |
 | Association Rule Learning | ✅ |
 | Reinforcement Learning | ✅ |
-| Deep Learning | ⏳ |
-| NLP | ⏳ |
-| Computer Vision | ⏳ |
+| NLP | ✅ |
+| Dimensionality Reduction | ✅ |
 
 ---
 
